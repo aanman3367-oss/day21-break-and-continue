@@ -1,0 +1,4 @@
+Enter a number(0 to exit): 3
+You entered 3
+Enter a number(0 to exit): 0
+You entered 0
